@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\cc0765df7c7661a333835ac6acf381150bd919ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_7daa929ef8356c284e2a31c17a9d6153d69cba26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\af8bbcfc2391f3d6fadec862308b9709ea34fa7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_12a56cccba03fa6bb0870d833158f38be3c63ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\408c3336cda673fec8b18655549f42a29c5f9002\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_36a8b557592d4170608e8714bc3294550499d841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\45ceaebc0be8f12dd5d64b819dc2f1a9d94da355\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_f8f3335e97d54bb5f8efae873261a940486215ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\dd48a408600bb71bb1ba9175e89cd48f658b473d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_84dcbf0313c42d972cd821bcfcdd77ed43e0a431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\77f594fc193da1fb2f6b3b146abf24c74fa2872e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_1db8cf5cbe510e8ee2faff732b5931ee8a910191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\0c70ba5fbdce615925ce4dfe7ea08faaa7bafae0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_b4b4223938d0d6cee8b224f901f4f66072035938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasib\.android\build-cache\c8b647617fdd374f62b9cc462a5e66e47c0792d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="F:\Android\Project\app\build\intermediates\pre-dexed\debug\classes_a5ad84d830c522d1bffce13e97585dfac175a1ba.jar" />
+    </item>
+
+</items>
